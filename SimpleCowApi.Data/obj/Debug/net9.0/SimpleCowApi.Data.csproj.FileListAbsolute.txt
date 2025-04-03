@@ -1,0 +1,14 @@
+C:\Users\abazl\SimpleCowApi\SimpleCowApi.Data\bin\Debug\net9.0\SimpleCowApi.Data.deps.json
+C:\Users\abazl\SimpleCowApi\SimpleCowApi.Data\bin\Debug\net9.0\SimpleCowApi.Data.runtimeconfig.json
+C:\Users\abazl\SimpleCowApi\SimpleCowApi.Data\bin\Debug\net9.0\SimpleCowApi.Data.dll
+C:\Users\abazl\SimpleCowApi\SimpleCowApi.Data\bin\Debug\net9.0\SimpleCowApi.Data.pdb
+C:\Users\abazl\SimpleCowApi\SimpleCowApi.Data\obj\Debug\net9.0\SimpleCowApi.Data.csproj.AssemblyReference.cache
+C:\Users\abazl\SimpleCowApi\SimpleCowApi.Data\obj\Debug\net9.0\SimpleCowApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abazl\SimpleCowApi\SimpleCowApi.Data\obj\Debug\net9.0\SimpleCowApi.Data.AssemblyInfoInputs.cache
+C:\Users\abazl\SimpleCowApi\SimpleCowApi.Data\obj\Debug\net9.0\SimpleCowApi.Data.AssemblyInfo.cs
+C:\Users\abazl\SimpleCowApi\SimpleCowApi.Data\obj\Debug\net9.0\SimpleCowApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\abazl\SimpleCowApi\SimpleCowApi.Data\obj\Debug\net9.0\SimpleCowApi.Data.dll
+C:\Users\abazl\SimpleCowApi\SimpleCowApi.Data\obj\Debug\net9.0\refint\SimpleCowApi.Data.dll
+C:\Users\abazl\SimpleCowApi\SimpleCowApi.Data\obj\Debug\net9.0\SimpleCowApi.Data.pdb
+C:\Users\abazl\SimpleCowApi\SimpleCowApi.Data\obj\Debug\net9.0\SimpleCowApi.Data.genruntimeconfig.cache
+C:\Users\abazl\SimpleCowApi\SimpleCowApi.Data\obj\Debug\net9.0\ref\SimpleCowApi.Data.dll
