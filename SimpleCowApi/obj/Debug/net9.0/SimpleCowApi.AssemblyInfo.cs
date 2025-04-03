@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleCowApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69bb9baf4b1058f0a02ccd8b8aeaa4f5f403dec2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleCowApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleCowApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
